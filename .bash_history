@@ -16,3 +16,7 @@ git add .
 git commit -m "Despliegue final"
 git branch -M main
 git push -u origin main
+git add .
+git commit -m "Corregir memoria y dependencias de build"
+git push
+git add 
