@@ -23,3 +23,7 @@ git add
 git add .
 git commit -m "Ajustes de memoria y construcción"
 git push
+git add .
+git commit -m "Solución final error compilación - standalone y 2Gi"
+git push
+git add 
