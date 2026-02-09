@@ -20,3 +20,6 @@ git add .
 git commit -m "Corregir memoria y dependencias de build"
 git push
 git add 
+git add .
+git commit -m "Ajustes de memoria y construcción"
+git push
