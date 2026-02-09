@@ -12,3 +12,7 @@ git push -u origin main
 git config --global user.email "carlosaprg@gmail.com"
 git config --global user.name "Carlos Padilla"
 git remote set-url origin https://github.com/carlosaprg-hash/Indesma.git
+git add .
+git commit -m "Despliegue final"
+git branch -M main
+git push -u origin main
